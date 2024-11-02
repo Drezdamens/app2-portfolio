@@ -11,3 +11,8 @@ with col2:
     Hi, my name is Rostyk and i build my first site which supposed to be my first portfolio showcase. And i hope that will be not last ahaha.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps i have built in Python. Feel free to contact me!
+"""
+st.write(content2)
